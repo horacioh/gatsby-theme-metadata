@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-theme-metadata-workspaces",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Horacio Herrera",
+  "license": "MIT",
+  "workspaces": [
+    "gatsby-theme-metadata",
+    "example"
+  ]
+}
